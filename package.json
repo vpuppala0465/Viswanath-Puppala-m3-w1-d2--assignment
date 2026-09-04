@@ -1,0 +1,21 @@
+{
+  "name": "viswanath-puppala-m3-w1-d2-assignment",
+  "version": "1.0.0",
+  "description": "Express registration form with validation",
+  "main": "app.js",
+  "scripts": {
+    "start": "node start.js",
+    "watch": "nodemon start.js"
+  },
+  "author": "Viswanath Puppala",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.4",
+    "express": "^4.22.2",
+    "express-validator": "^7.2.1",
+    "pug": "^3.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
